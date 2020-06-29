@@ -1,0 +1,4 @@
+#Wed May 27 20:08:16 GMT-03:00 2020
+base.0=C\:\\Users\\rpsbl\\AndroidStudioProjects\\aula\\khalticlone\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
